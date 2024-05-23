@@ -1,0 +1,37 @@
+﻿  Animal.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\Animal\Animal.h(4,10): error C1083: Cannot open include file: 'Database.h': No such file or directory
+  (compiling source file '../MH3D_Database/Animal/Animal.cpp')
+  
+  Database.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\Database.h(7,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  (compiling source file '../MH3D_Database/Database.cpp')
+  
+  main.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\Database.h(7,10): error C1083: Cannot open include file: 'cppconn/driver.h': No such file or directory
+  (compiling source file '../MH3D_Database/main.cpp')
+  
+  Organization.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\Organization\Organization.h(4,10): error C1083: Cannot open include file: 'Database.h': No such file or directory
+  (compiling source file '../MH3D_Database/Organization/Organization.cpp')
+  
+  Reconstruction.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\Reconstruction\Reconstruction.h(4,10): error C1083: Cannot open include file: 'Database.h': No such file or directory
+  (compiling source file '../MH3D_Database/Reconstruction/Reconstruction.cpp')
+  
+  Scan.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\Scan\Scan.h(4,10): error C1083: Cannot open include file: 'Database.h': No such file or directory
+  (compiling source file '../MH3D_Database/Scan/Scan.cpp')
+  
+  Session.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\Session\Session.h(4,10): error C1083: Cannot open include file: 'Database.h': No such file or directory
+  (compiling source file '../MH3D_Database/Session/Session.cpp')
+  
+  System.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\System\System.h(4,10): error C1083: Cannot open include file: 'Database.h': No such file or directory
+  (compiling source file '../MH3D_Database/System/System.cpp')
+  
+  User.cpp
+C:\Users\Michael Yang\source\repos\MH3D_Database\User\User.h(4,10): error C1083: Cannot open include file: 'Database.h': No such file or directory
+  (compiling source file '../MH3D_Database/User/User.cpp')
+  
+  Generating Code...
